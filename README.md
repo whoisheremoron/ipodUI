@@ -1,4 +1,4 @@
-![screen1](https://github.com/user-attachments/assets/b0d63c59-a9fd-4f6e-8ca1-8862d167eb11)# iPod Classic
+# iPod Classic
 
 A native iOS app that turns your iPhone into an iPod Classic — complete with a working click wheel, iPod-style UI, and full integration with your Music library.
 
