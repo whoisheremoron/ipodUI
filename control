@@ -1,0 +1,9 @@
+Package: com.wihmsoft.ipodclassic
+Name: iPod Classic
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: iPod Classic player
+Maintainer: WiHM <wihmsoft@example.com>
+Author: WiHM
+Section: Applications
+Depends: firmware (>= 15.0)
