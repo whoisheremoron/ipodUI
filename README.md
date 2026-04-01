@@ -90,6 +90,10 @@ Replace `<your_device_ip>` with your iPhone's local IP address (find it in **Set
 
 The app will be installed and the device will respring automatically.
 
+**IF "CONNECTION CLOSED"**
+Make sure you have installed openSSH and connection port is opened.
+Try connecting to another WiFi(retranslators could not work).
+
 ---
 
 ## Installing a Pre-built IPA
