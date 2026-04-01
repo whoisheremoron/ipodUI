@@ -1,4 +1,4 @@
-# iPod Classic
+![screen1](https://github.com/user-attachments/assets/b0d63c59-a9fd-4f6e-8ca1-8862d167eb11)# iPod Classic
 
 A native iOS app that turns your iPhone into an iPod Classic — complete with a working click wheel, iPod-style UI, and full integration with your Music library.
 
@@ -7,6 +7,10 @@ A native iOS app that turns your iPhone into an iPod Classic — complete with a
   <img src="https://img.shields.io/badge/built%20with-Theos-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/jailbreak-required-red?style=flat-square"/>
 </p>
+
+![screen1](https://github.com/user-attachments/assets/aea09cc8-36ac-4b78-afc1-6481cde4a8ed)
+![Screen2](https://github.com/user-attachments/assets/07024c91-e08b-4dce-ad22-40633c046c73)
+![Screen3](https://github.com/user-attachments/assets/d1a026d0-bfc4-4898-9581-d4dddd706693)
 
 ---
 
