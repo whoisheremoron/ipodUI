@@ -6,6 +6,7 @@ A native iOS app that turns your iPhone into an iPod Classic — complete with a
   <img src="https://img.shields.io/badge/platform-iOS%2015%2B-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/built%20with-Theos-lightgrey?style=flat-square"/>
   <img src="https://img.shields.io/badge/jailbreak-required-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/have_builded_ipa-unsigned-red"/>
 </p>
 
 <img src="https://github.com/user-attachments/assets/aea09cc8-36ac-4b78-afc1-6481cde4a8ed" width="150"/>
